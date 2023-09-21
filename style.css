@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url("https://www.tickertape.in/blog/wp-content/uploads/2023/04/25-Apr-2023-Top-general-insurance-companies-in-India-13-1200x675-cropped.png")
+}
+
+header {
+    background-color: #0e0c0c;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #2f777d;
+    background-color: antiquewhite;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    border: 1px solid #ad1616;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+li:hover {
+    background-color: #f0f0f0;
+}
+
